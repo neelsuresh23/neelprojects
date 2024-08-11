@@ -1,6 +1,0 @@
-5
-Los Angeles|New York|T
-Chicago|Miami|C
-San Francisco|Toronto|T
-Seattle|London|C
-Dallas|San Francisco|T
